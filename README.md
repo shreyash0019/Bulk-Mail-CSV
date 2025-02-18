@@ -23,23 +23,27 @@ This Python script sends bulk emails to recipients listed in a CSV file. It uses
 git clone https://github.com/shreyash0019/Bulk-Mail-CSV.git
 ```
 2. Navigate to the project directory:
-  ```bash
+   
+```bash
  cd Bulk-Mail-CSV
  ```
 4. Install the required libraries:
+   
 ``` bash
 pip install smtplib email csv
 ```
 5. Create a credentials.txt file in the project directory with the following format:
+   
 ```bash
  your_email@example.com
- your_password ```
+ your_password 
 ```
 6. Run the script:
-   ``` bash
+   
+``` bash
    python main.py
 ```
-```
+
 Script Explanation
 The script performs the following steps:
 
