@@ -74,5 +74,4 @@ The script performs the following steps:
 
 Feel free to modify the script to suit your needs and add features like custom email subjects, body content, or attachments.
 
-Happy emailing!
 
