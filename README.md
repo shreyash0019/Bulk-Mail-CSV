@@ -73,5 +73,3 @@ The script performs the following steps:
 - **Email Delivery Issues**: Verify that recipient email addresses are valid and not flagged as spam.
 
 Feel free to modify the script to suit your needs and add features like custom email subjects, body content, or attachments.
-
-
